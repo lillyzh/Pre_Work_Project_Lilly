@@ -5,7 +5,7 @@ My IOS mobile application allows for simple user interaction features. User can 
 
 ### App Walk-though
 
-<img src="http://recordit.co/INCLGHwWlL" width=200><br>
+<img src="http://g.recordit.co/INCLGHwWlL.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
